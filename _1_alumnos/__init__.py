@@ -1,5 +1,6 @@
-from _1_alumnos.Administrator import Administrator
-from _1_alumnos.Alumno import Alumno
+from Alumno import Alumno
+from Administrator import Administrator
+
 administrator = Administrator()
 
 # Anadir alumnos
